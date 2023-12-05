@@ -6,4 +6,5 @@
 * Regex password strength test
 * Email verification
 * Toggle to login-register
+* Show and hide password
 * [Mysite](https://fir-auth-2e93d.web.app/) 
